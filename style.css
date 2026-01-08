@@ -183,3 +183,40 @@ nav ul li a:hover {
   box-shadow: 0 10px 20px  #00000010;
   margin: 24px 0 16px 0;
 }
+footer {
+  background-color: #001931;
+  color: white;
+  margin-top: 120px;
+  padding: 100px 20px 30px 20px;
+}
+.upper-footer{
+  max-width: 1360px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 0;
+}
+.upper-footer ul{
+  list-style: none;
+  display: flex;
+  gap: 24px;
+}
+.upper-footer ul li a{
+  text-decoration: none;
+  color: white;
+}
+.upper-footer p {
+  font-size: 20px;
+  font-weight: medium;
+  padding: 10px 0px;
+}
+footer hr{
+  border: 0.5px solid #ffffff30;
+  margin: 0 200px;
+}
+.down-footer p{
+  text-align: center;
+  color: #fafafa;
+  margin-top: 30px;
+}
