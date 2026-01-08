@@ -79,3 +79,46 @@ nav ul li a:hover {
   border-radius: 4px;
   cursor: pointer;
 }
+.notes-upper {
+  text-align: center;
+  margin: 80px 0 40px 0;
+}
+.notes-upper h2{
+  color: #001931;
+  font-size: 48px;
+  font-weight: bold;
+  margin: 80px 0 5px 0;
+}
+.notes-upper p{
+  color: #627382;
+}
+.notes-container {
+  display: flex;
+  justify-content: center;
+  max-width: 1360px;
+  margin: auto;
+  gap: 15px;
+  margin-top: 40px;
+  margin-bottom:60px ;
+}
+.box-img img{
+  padding: 10px;
+  background-color: #F95555;
+  border-radius: 50%;
+}
+.notes-box {
+  padding:50px 15px;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 4px 8px #00000010;
+}
+.box-text h3{
+  color: #001931;
+  font-size: 24px;
+  margin: 15px 0;
+}
+.box-text p{
+  color: #627382;
+  font-size: 16px;
+  margin: 15px 0;
+}
