@@ -99,7 +99,7 @@ nav ul li a:hover {
   margin: auto;
   gap: 15px;
   margin-top: 40px;
-  margin-bottom:60px ;
+  margin-bottom:30px ;
 }
 .box-img img{
   padding: 10px;
@@ -122,3 +122,40 @@ nav ul li a:hover {
   font-size: 16px;
   margin: 15px 0;
 }
+.brain {
+  max-width: 1360px;
+  margin:  auto;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  align-items: center;
+  margin-bottom: 80px;
+}
+.brain-text h6 {
+  color: #30b868;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.brain-text h3 {
+  color: #001931;
+  font-weight: bold;
+  font-size: 48px;
+  margin-bottom: 15px;
+  margin-bottom: 16px;
+}
+.brain-text p {
+  color: #627382;
+  line-height: 20px;
+  font-size: 16px;
+  margin-bottom: 40px;
+}
+.brain ul{
+  list-style: none;
+}
+.brain ul li{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+} 
