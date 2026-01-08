@@ -124,7 +124,7 @@ nav ul li a:hover {
 }
 .brain {
   max-width: 1360px;
-  margin:  auto;
+  margin: 100px auto;
   display: flex;
   justify-content: center;
   gap: 50px;
@@ -159,3 +159,27 @@ nav ul li a:hover {
   gap: 15px;
   margin-bottom: 20px;
 } 
+.read-mores{
+  margin: 60px auto;
+
+}
+.read-more {
+  max-width: 1360px;
+  text-align: center;
+  margin: auto;
+  background-color: #f7f6f2;
+  padding: 80px 40px;
+}
+.read-more h3{
+  font-size: 40px;
+  color: #001931;
+  font-weight: bold;
+}
+.read-more p{
+  color: #627382;
+  line-height: 24px;
+}
+.btn-f{
+  box-shadow: 0 10px 20px  #00000010;
+  margin: 24px 0 16px 0;
+}
